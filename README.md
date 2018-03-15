@@ -2,7 +2,4 @@
 GitHub education repository of spring 2018 semester.
 
 
-Week2 
-
-
-blabla
+Week2 -1
